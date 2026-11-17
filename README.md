@@ -1,1 +1,1 @@
-This is Scrum Study DevOps 
+This is Scrum Study DevOps
